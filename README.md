@@ -30,6 +30,8 @@ Training Databases:
 Unseen Test Dataset:
 - MEGC2022-testSet
 
+Baseline: 3D-CNN for Facial Micro-and Macro-expression Spotting on Long Video Sequences using Temporal Oriented Reference Frame. ([paper](https://arxiv.org/abs/2105.06340))
+
 ### Challenge in 2023
 
 #### ME and Macro-expression Spotting task
@@ -45,6 +47,8 @@ Training Databases:
 
 Unseen Test Dataset:
 - MEGC2023-testSet
+
+Baseline: Spatio-temporal fusion for macro-and micro-expression spotting in long video sequences. ([paper](https://ieeexplore.ieee.org/document/9320153))
 
 ### Challenge in 2024
 
@@ -62,6 +66,8 @@ Training Databases:
 Unseen Test Dataset:
 - MEGC2023-testSet
 
+Baseline: Spatio-temporal fusion for macro-and micro-expression spotting in long video sequences. ([paper](https://ieeexplore.ieee.org/document/9320153))
+
 #### Spot-then-Recognize (STR) Task
 
 Website: [Spot-then-Recognize (STR) Task](https://megc2024.github.io/challenge.html#CCS)
@@ -69,6 +75,8 @@ Website: [Spot-then-Recognize (STR) Task](https://megc2024.github.io/challenge.h
 Datasets:
 - CAS(ME)^2
 - SAMM Long Video
+
+Baseline: Spot-then-recognize: A micro-expression analysis network for seamless evaluation of long videos. Signal Processing: Image Communication, Vol. 110, pp. 116875. ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522001540)) ([GitHub link](https://github.com/genbing99/MEAN_Spot-then-recognize))
 
 ### Challenge in 2025
 
@@ -87,3 +95,15 @@ Training Databases:
 
 Unseen Dataset for STR:
 - MEGC2025-testSet (same version as MEGC2023 Unseen dataset)
+
+Baseline: Spot-then-recognize: A micro-expression analysis network for seamless evaluation of long videos. Signal Processing: Image Communication, Vol. 110, pp. 116875. ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522001540)) ([GitHub link](https://github.com/genbing99/MEAN_Spot-then-recognize))
+
+## References
+
+- [micro-expressions-paper](https://github.com/luoclab/micro-expressions-paper)
+- [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition)
+
+## Contributors
+
+- [Gen Bing](https://github.com/genbing99)
+- 
